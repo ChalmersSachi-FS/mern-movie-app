@@ -9,7 +9,7 @@ const MovieList = () => {
   useEffect(() => {
     // Fetch movies from the backend
     axios
-      .get("http://localhost:5001/api/movies")
+      .get("http://localhost:5002/api/movies")
       .then((response) => {
         setMovies(response.data);
         setLoading(false);
