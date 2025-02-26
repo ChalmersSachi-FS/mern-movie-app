@@ -10,3 +10,6 @@ I am currently creating the frontend folder & its files.
 
 2/18/25
 Assignment is late. continuing where i left off. i got all of the files in correct folders. i have to deploy on heroku.
+
+2/26/25 TIME:4:39PM
+Been working on this project for hours. Had an issue with npm/yarn So I clicked on the debug button.
