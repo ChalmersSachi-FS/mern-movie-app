@@ -13,3 +13,6 @@ Assignment is late. continuing where i left off. i got all of the files in corre
 
 2/26/25 TIME:4:39PM
 Been working on this project for hours. Had an issue with npm/yarn So I clicked on the debug button.
+
+3/1/25 TIME: 4:25PM
+Have been working on this for an hour or so now. I have added all new folders and files that I need to add for this last week's assignment. I have finally been able to deploy it on Vercel. I am downloading the .Zip folder and going to be submitting my assignment.
